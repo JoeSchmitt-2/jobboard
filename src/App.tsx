@@ -81,7 +81,7 @@ function App() {
 
   return (
     <>
-      <header>Header</header>
+      <header>By Joseph Schmitt</header>
       <div className="columns">
         <nav>Navigation</nav>
         <main>
